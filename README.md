@@ -31,6 +31,14 @@
 
 Creating a repository from this template and cloning the repository.
 
+### Create a .env file
+
+Create a .env at the root, and then Add your OpenAI API key.
+
+```
+OPENAI_API_KEY=<YOUR-API-KEY>
+```
+
 ### Preparing a CSV file
 
 To get ready for the next step, please create a CSV file.
